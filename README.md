@@ -3,7 +3,7 @@
 
 ## Virtual camera and virtual microphone functions 
 
-## Supports direct use of OBS sources as cameras and OBS audio as microphones
+## OBS can be used directly as a data source for cameras and microphones
 
 ![image](https://github.com/jfdream/vCamera/blob/main/20230908-161351.jpeg)
 
