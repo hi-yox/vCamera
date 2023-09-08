@@ -5,6 +5,6 @@
 
 ## Supports direct use of OBS sources as cameras and OBS audio as microphones
 
-![Image][20230908-161351.jpeg]
+![image][https://github.com/jfdream/vCamera/blob/main/20230908-161351.jpeg]
 
-![Image][20230908-161355.jpeg]
+![image][[20230908-161355.jpeg](https://github.com/jfdream/vCamera/blob/main/20230908-161355.jpeg)]
